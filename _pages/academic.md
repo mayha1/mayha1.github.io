@@ -8,8 +8,8 @@ author_profile: true
 ### Self-study
 
 I have self-studied the following courses/series, almost of those videos are available on Youtube, Coursera,...
-
-- [Methods for studying English](https://vuenglishclass.blogspot.com/) (nearly finished)
+- [TẠP II (English)](https://vuenglishclass.blogspot.com/) (not yet start )
+- [METHODS (English)](https://vuenglishclass.blogspot.com/) (finished in Jan 2023)
 - [MIMPython](https://mimpython.github.io/) (finished in Spring 2021)
 
 ### Talks
