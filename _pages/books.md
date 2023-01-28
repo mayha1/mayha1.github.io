@@ -27,6 +27,8 @@ author_profile: true
 - Những huyền thoại -  Roland Barthes
 - Sự nghèo nàn của thuyết sử luận (The poverty of historicism) - Karl Popper
 - Phải trái đúng sai - Michael Sandel
+- Chủng tộc technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
+- clean code a handbook of agile software craftsmanship - Robert Martin
 ## 3. Dự định đọc
 - Phật Học phổ thông - Thích Thiện Hoa
 ## 4. Có thể sẽ đọc
