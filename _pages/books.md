@@ -1,5 +1,6 @@
 ---
 permalink: /books/
+layout: archive
 title: "Books"
 author_profile: true
 ---

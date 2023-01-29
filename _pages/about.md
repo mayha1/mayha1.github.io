@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: archive
 title: "About"
 ---
 
