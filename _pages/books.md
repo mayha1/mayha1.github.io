@@ -23,6 +23,8 @@ author_profile: true
 - Người xa lạ - Albert Camus
 ### 2023
 - Ngũ luân thư - Miyamoto Musashi
+- Chủng Tộc Technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
+- Tiện bút - Cao Việt Dũng
 ## 2. Đang đọc
 - Thấy Phật - Cao Huy Thuần
 - Những huyền thoại -  Roland Barthes
