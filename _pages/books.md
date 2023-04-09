@@ -26,14 +26,16 @@ author_profile: true
 - Chủng Tộc Technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
 - Tiện bút - Cao Việt Dũng
 ## 2. Đang đọc
+- Thần thoại Sisyphus - Albert Camus
 - Thấy Phật - Cao Huy Thuần
 - Những huyền thoại -  Roland Barthes
+- Clean code: A handbook of agile software craftsmanship - Robert Martin
+- Quyền lực - Bertrand Russell
+## 3. Dự định đọc
+- When We Cease to Understand the World - Benjamín Labatut
+- Dẫn luận về Schopenhauer - Christopher Janaway
 - Sự nghèo nàn của thuyết sử luận (The poverty of historicism) - Karl Popper
 - Phải trái đúng sai - Michael Sandel
-- Chủng tộc technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
-- Clean code: A handbook of agile software craftsmanship - Robert Martin
-## 3. Dự định đọc
-- Phật Học phổ thông - Thích Thiện Hoa
 ## 4. Có thể sẽ đọc
 - Thinking in systems - Donella H. Meadows
 - Fooled by randomness - Nassim Nicholas Taleb
