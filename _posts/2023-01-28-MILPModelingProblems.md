@@ -13,4 +13,6 @@ tags:
 
 3. [Eight queens puzzle problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 
+4. [Puzzle games from Krazydad](https://krazydad.com/)
+
 (còn tiếp)
