@@ -25,8 +25,8 @@ author_profile: true
 - Ngũ luân thư - Miyamoto Musashi
 - Chủng Tộc Technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
 - Tiện bút - Cao Việt Dũng
-## 2. Đang đọc
 - Thần thoại Sisyphus - Albert Camus
+## 2. Đang đọc
 - Thấy Phật - Cao Huy Thuần
 - Những huyền thoại -  Roland Barthes
 - Clean code: A handbook of agile software craftsmanship - Robert Martin
@@ -68,7 +68,6 @@ author_profile: true
 - Làm đĩ - Vũ Trọng Phụng
 - Thuyết Công Lợi - John Stuart Mill
 - Tôi tư duy, vậy thì tôi vẽ - Thomas Cathcart & Daniel Klein
-- Thần thoại Sisyphus - Albert Camus
 - Suối nguồn - Ayn Rand
 - Chết vì chứng khoán: Jesse Livermore - Richard Smitten
 - 21 bài học cho thế kỷ 21 - Yuval Noah Harari 
