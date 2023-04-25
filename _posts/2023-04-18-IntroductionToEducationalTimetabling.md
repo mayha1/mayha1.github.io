@@ -49,8 +49,7 @@ must not take place on a Tuesday”, or the constraint “event a must occur in
 timeslot b”.
 
 - Binary constraints that concern pairs of events, such the constraint “event a
-must take place before event b”, or the event clash constraint, which is 
-considered in more detail below. (Note that chains of binary constraints can 
+must take place before event b”, or the event clash constraint. (Note that chains of binary constraints can 
 also be applied, suchas the constraint “event a must take place before b, which
 must take place before c”, etc. . .)
 
@@ -185,6 +184,7 @@ to teach that course at a given period, then no lectures of
 the course can be scheduled at that period. Each lecture
 in a period unavailable for that course is one violation.
 
+### The soft constraints are the following:
 - RoomCapacity: For each lecture, the number of students
 that attend the course must be less or equal than the number 
 of seats of all the rooms that host its lectures.Each
