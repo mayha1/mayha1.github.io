@@ -67,6 +67,72 @@ preferences of the people who will use the timetables, such as the constraint
 free mornings per week”.
 
 ## High-School Timetabling (XHSTT) (ITC 2011)
+### Factors
+- Times and resources
+  - Students: Usually a student group is preassigned to each events. Constraints 
+  that can be important for students are controlling the number of idle times, 
+  the number of lessons per day.
+  - Teachers: As mentioned earlier, in some countries teachers are preassigned 
+  to events, while in others they are not. In the latter case the choice of 
+  assignment will be restricted by teachers’ qualifications and workload limits. 
+  Important issues for the teachers are the total number of idle times, the 
+  number of assigned times per day, the number of days with events, and 
+  unavailable days or times.
+  - Rooms: Most events take place in a room. If rooms abound, we can disregard 
+  them, if not they can be a bottleneck, especially for rooms.
+
+- Event
+  - The duration, which is the number of times that have to be assigned to the 
+  event. These times must be consecutive.
+  - The course related to an event.
+  - The time that the event is scheduled to. If the duration is larger than one, 
+  the event will occupy some following times as well. Constructing a timetable 
+  involves assigning a time to all events.
+  - The workload that the event will contribute to a teacher’s total workload. 
+  Often this is the same as the duration. The workload is only needed when 
+  teachers are not preassigned, and consequently total workloads must be calculated.
+  - The resource groups are preassigned.
+  - Any number of resources, either preassigned, or to be assigned. These each 
+  have a ‘role’, used to identify them. A role might have value ‘room’, 
+  ‘teacher’, ‘senior teacher’, and so on. A resource may be constrained to be 
+  from a particular resource group, for example a Science laboratory or an 
+  English teacher.
+
+### Constraints
+- Basic scheduling constraints
+  - AssignTimeConstraint (Cost per event). Assign a time to each of the selected 
+  events.
+  - AssignResourceConstraint (Cost per event). Assign a resource to the role in 
+  each of the selected events.
+
+- Event constraints
+  - LinkEventsConstraint (Cost per event group). Schedule the selected event 
+  groups at the same (starting) time.
+  - SpreadEventsConstraint. (Cost per event group). Schedule the events of the 
+  selected event groups to the selected time groups between a minimum and a 
+  maximum number of times.
+  - AvoidSplitAssignmentsConstraint. (Cost per event group). For each selected 
+  event group, schedule the selected role of each event of this group to the 
+  same resource.
+
+- Resource constraints: Resource constraints describe the quality of the 
+timetable of a single resource; the corresponding cost is attributed to the 
+resource.
+  - AvoidClashesConstraint. Schedule the selected resources without clashes. 
+  This is one of the basic (hard) constraints.
+  - AvoidUnavailableTimesConstraint. Avoid that the selected resources are busy 
+  in the selected times.
+  - LimitWorkloadConstraint. Schedule workload to the selected resources between 
+  a minimum and a maximum.
+  - LimitIdleTimesConstraint. The number of idle times in the selected time 
+  groups should lie between a minimum and a maximum for each of the selected 
+  resources. Typically the time groups are a day or all days.
+  - LimitBusyTimesConstraint. The number of occupied times for the selected resources
+  should lie between a minimum and a maximum for each of the selected time groups.
+  Typically the time groups are the days.
+  - ClusterBusyTimesConstraint. The number of time groups with an assigned time should
+  lie between a minimum and a maximum for the selected resources. Typically the time
+  groups are days; for example a teacher requiring at most 3 days with lessons.
 
 ## Curriculum-based Course Timetabling (Track 3 ITC 2007)
 
