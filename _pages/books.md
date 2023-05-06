@@ -26,12 +26,13 @@ author_profile: true
 - Chủng Tộc Technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
 - Tiện bút - Cao Việt Dũng
 - Thần thoại Sisyphus - Albert Camus
+- Phía Nam biên giới, phía Tây mặt trời - Haruki Murakami
 ## 2. Đang đọc
-- Thấy Phật - Cao Huy Thuần
 - Những huyền thoại -  Roland Barthes
 - Clean code: A handbook of agile software craftsmanship - Robert Martin
 - Quyền lực - Bertrand Russell
 ## 3. Dự định đọc
+- Bên phía nhà Swann - Marcel Proust
 - When We Cease to Understand the World - Benjamín Labatut
 - Dẫn luận về Schopenhauer - Christopher Janaway
 - Sự nghèo nàn của thuyết sử luận (The poverty of historicism) - Karl Popper
