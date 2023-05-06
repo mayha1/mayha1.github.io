@@ -60,7 +60,7 @@ events should be assigned to a room which has a sufficient capacity”.
 or “clumping-together” of events within the timetable in order to ease 
 student/teacher workload, and/or to agree with a university’s timetabling policy.
 
-- Agent constraints that are imposed in order to promote therequirements and/or
+- Agent constraints that are imposed in order to promote the requirements and/or
 preferences of the people who will use the timetables, such as the constraint 
 “lecturer x likes to teach event a on Mondays”, or “lecturer y must have have n 
 free mornings per week”.
