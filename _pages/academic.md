@@ -8,9 +8,7 @@ author_profile: true
 ### Self-study
 
 I have self-studied the following courses/series, almost of those videos are available on Youtube, Coursera,...
-- [Introduction to software engineering]() (started in Fed)
-- [Introduction to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/) (started in Feb)
-- [Computer architecture]() (started in Feb)
+- [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) (started in Jun)
 - [TẠP II (English)](https://vuenglishclass.blogspot.com/) (started in Feb)
 - [METHODS (English)](https://vuenglishclass.blogspot.com/) (finished in Jan 2023)
 - [MIMPython](https://mimpython.github.io/) (finished in Spring 2021)
