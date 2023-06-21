@@ -27,6 +27,7 @@ author_profile: true
 - Tiện bút - Cao Việt Dũng
 - Thần thoại Sisyphus - Albert Camus
 - Phía Nam biên giới, phía Tây mặt trời - Haruki Murakami
+- Cái chết của Ivan Ilyich - Lev Nikolayevich Tolstoy
 ## 2. Đang đọc
 - Những huyền thoại -  Roland Barthes
 - Clean code: A handbook of agile software craftsmanship - Robert Martin
