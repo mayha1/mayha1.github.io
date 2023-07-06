@@ -28,17 +28,21 @@ author_profile: true
 - Thần thoại Sisyphus - Albert Camus
 - Phía Nam biên giới, phía Tây mặt trời - Haruki Murakami
 - Cái chết của Ivan Ilyich - Lev Nikolayevich Tolstoy
+- Người biển-lận - Moliere
 ## 2. Đang đọc
 - Những huyền thoại -  Roland Barthes
 - Clean code: A handbook of agile software craftsmanship - Robert Martin
 - Quyền lực - Bertrand Russell
+- Những anh hùng của lịch sử - Will Durant
+- Tôi tư duy, vậy thì tôi vẽ - Thomas Cathcart & Daniel Klein
 ## 3. Dự định đọc
+- Chùm nho thịnh nộ - John Steinbeck
 - Bên phía nhà Swann - Marcel Proust
-- When We Cease to Understand the World - Benjamín Labatut
-- Dẫn luận về Schopenhauer - Christopher Janaway
-- Sự nghèo nàn của thuyết sử luận (The poverty of historicism) - Karl Popper
-- Phải trái đúng sai - Michael Sandel
 ## 4. Có thể sẽ đọc
+- When We Cease to Understand the World - Benjamín Labatut
+- Phải trái đúng sai - Michael Sandel
+- Sự nghèo nàn của thuyết sử luận (The poverty of historicism) - Karl Popper
+- Dẫn luận về Schopenhauer - Christopher Janaway
 - Thinking in systems - Donella H. Meadows
 - Fooled by randomness - Nassim Nicholas Taleb
 - Thinking, fast and slow - Daniel Kahneman
@@ -55,8 +59,6 @@ author_profile: true
 - Hệ thống mỹ thuật - Alain
 - Hồi ký viết dưới hầm - Fyodor Mikhailovich Dostoyevsky
 - Đời nhẹ khôn kham - Milan Kundera
-- Những anh hùng của lịch sử - Will Durant
-- Chùm nho thịnh nộ - John Steinbeck
 - Chiếc hộp Pandora - Dazai Osamu
 - Nền kinh tế tăng trưởng và sụp đổ - Peter D. Schiff
 - Không có bữa ăn nào miễn phí - Alan Phan
@@ -69,7 +71,6 @@ author_profile: true
 - Vụ án - Franz Kafka
 - Làm đĩ - Vũ Trọng Phụng
 - Thuyết Công Lợi - John Stuart Mill
-- Tôi tư duy, vậy thì tôi vẽ - Thomas Cathcart & Daniel Klein
 - Suối nguồn - Ayn Rand
 - Chết vì chứng khoán: Jesse Livermore - Richard Smitten
 - 21 bài học cho thế kỷ 21 - Yuval Noah Harari 
