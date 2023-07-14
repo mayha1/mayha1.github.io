@@ -29,6 +29,7 @@ author_profile: true
 - Phía Nam biên giới, phía Tây mặt trời - Haruki Murakami
 - Cái chết của Ivan Ilyich - Lev Nikolayevich Tolstoy
 - Người biển-lận - Moliere
+- Một chuyến đi - Tử Yên Nguyễn Thu Thuỷ
 ## 2. Đang đọc
 - Những huyền thoại -  Roland Barthes
 - Những anh hùng của lịch sử - Will Durant
