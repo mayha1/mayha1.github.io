@@ -31,11 +31,13 @@ author_profile: true
 - Người biển-lận - Moliere
 ## 2. Đang đọc
 - Những huyền thoại -  Roland Barthes
+- Những anh hùng của lịch sử - Will Durant
+- Lịch sử triết học phương Đông viết cho thanh thiếu niên - Kang Sun Ryul
+- Đông Chu liệt quốc - Phùng Mộng Long
+## 3. Dự định đọc
 - Clean code: A handbook of agile software craftsmanship - Robert Martin
 - Quyền lực - Bertrand Russell
-- Những anh hùng của lịch sử - Will Durant
 - Tôi tư duy, vậy thì tôi vẽ - Thomas Cathcart & Daniel Klein
-## 3. Dự định đọc
 - Chùm nho thịnh nộ - John Steinbeck
 - Bên phía nhà Swann - Marcel Proust
 ## 4. Có thể sẽ đọc
