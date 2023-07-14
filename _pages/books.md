@@ -34,12 +34,14 @@ author_profile: true
 - Những anh hùng của lịch sử - Will Durant
 - Lịch sử triết học phương Đông viết cho thanh thiếu niên - Kang Sun Ryul
 - Đông Chu liệt quốc - Phùng Mộng Long
+- The dictionary of obscure sorrows - John Koenig
 ## 3. Dự định đọc
 - Clean code: A handbook of agile software craftsmanship - Robert Martin
 - Quyền lực - Bertrand Russell
 - Tôi tư duy, vậy thì tôi vẽ - Thomas Cathcart & Daniel Klein
 - Chùm nho thịnh nộ - John Steinbeck
 - Bên phía nhà Swann - Marcel Proust
+- Trò chơi của thiên thần - Carlos Ruiz Zafón
 ## 4. Có thể sẽ đọc
 - When We Cease to Understand the World - Benjamín Labatut
 - Phải trái đúng sai - Michael Sandel
@@ -49,7 +51,6 @@ author_profile: true
 - Fooled by randomness - Nassim Nicholas Taleb
 - Thinking, fast and slow - Daniel Kahneman
 - What is life - Erwin Schrodinger
-- Đông Chu liệt quốc - Phùng Mộng Long
 - Cẩm nang kinh tế học - Ha Joon Chang
 - Kinh tế học: Về tiền, ngân hàng và thị trường tài chính - Frederic S. Mishkin
 - Tôn Tử Binh Pháp - Tôn Vũ
