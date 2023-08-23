@@ -8,8 +8,7 @@ author_profile: true
 ### Self-study
 
 I have self-studied the following courses/series, almost of those videos are available on Youtube, Coursera,...
-- [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) (started in Jun)
-- [TẠP II (English)](https://vuenglishclass.blogspot.com/) (started in Feb)
+- [TẠP II (English)](https://vuenglishclass.blogspot.com/) (finished in Jun 2023)
 - [METHODS (English)](https://vuenglishclass.blogspot.com/) (finished in Jan 2023)
 - [MIMPython](https://mimpython.github.io/) (finished in Spring 2021)
 
