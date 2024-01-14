@@ -2,10 +2,10 @@
 title: "MILP modeling problems"
 last_modified_at: 2023-01-30
 author_profile: true
-categories:
-  - Programming
-tags:
-  - IP
+# categories:
+  # - Programming
+# tags:
+  # - IP
 ---
 1. [0/1 Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 

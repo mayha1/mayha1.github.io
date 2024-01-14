@@ -2,10 +2,10 @@
 title: "Introduction to Educational Timetabling"
 last_modified_at: 2023-04-18
 author_profile: true
-categories:
-  - Optimization
-tags:
-  - Educational Timetabling
+# categories:
+#   - Optimization
+# tags:
+#   - Educational Timetabling
 ---
 ## Main problems
 There are three main problems in the educational timetabling area:

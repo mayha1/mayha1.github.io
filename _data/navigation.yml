@@ -7,6 +7,8 @@ main:
     url: /categories/
   # - title: "Tags"
   #   url: /tags/
+  - title: "Quotes"
+    url: /quotes/
   - title: "Books"
     url: /books/
   - title: "About"

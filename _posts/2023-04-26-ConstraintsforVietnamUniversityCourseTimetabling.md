@@ -2,10 +2,10 @@
 title: "Constraints for Vietnam University Course Timetabling"
 last_modified_at: 2023-04-26
 author_profile: true
-categories:
-  - Optimization
-tags:
-  - Educational Timetabling
+# categories:
+#   - Optimization
+# tags:
+#   - Educational Timetabling
 ---
 - Unary constraints
     - All lectures of a course must be scheduled. (Hard)
