@@ -1,7 +1,7 @@
 ---
-title: "Introduction to Educational Timetabling"
-last_modified_at: 2023-04-18
-author_profile: true
+# title: "Introduction to Educational Timetabling"
+# last_modified_at: 2023-04-18
+# author_profile: true
 # categories:
 #   - Optimization
 # tags:

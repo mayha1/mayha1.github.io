@@ -1,7 +1,7 @@
 ---
-title: "Constraints for Vietnam University Course Timetabling"
-last_modified_at: 2023-04-26
-author_profile: true
+# title: "Constraints for Vietnam University Course Timetabling"
+# last_modified_at: 2023-04-26
+# author_profile: true
 # categories:
 #   - Optimization
 # tags:

@@ -1,7 +1,7 @@
 ---
-title: "MILP modeling problems"
-last_modified_at: 2023-01-30
-author_profile: true
+# title: "MILP modeling problems"
+# last_modified_at: 2023-01-30
+# author_profile: true
 # categories:
   # - Programming
 # tags:
