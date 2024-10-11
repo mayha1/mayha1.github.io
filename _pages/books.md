@@ -6,6 +6,24 @@ author_profile: true
 ---
 
 ## 1. Đã đọc
+### 2024
+- Đẹp - Khái Hưng
+- Chuyện tình giai nhân - Trương Ái Linh
+- Cái chuồng khỉ - Nguyễn Đức Sơn
+- Đời nhẹ khôn kham - Milan Kundera
+- Bãi hoang - Jean-Rene
+- Trong khi chờ đợi Godot - Samuel Beckett
+- Sen - Anni Baobei
+- Chùa Đàn - Nguyễn Tuân
+### 2023
+- Ngũ luân thư - Miyamoto Musashi
+- Chủng Tộc Technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
+- Tiện bút - Cao Việt Dũng
+- Thần thoại Sisyphus - Albert Camus
+- Phía Nam biên giới, phía Tây mặt trời - Haruki Murakami
+- Cái chết của Ivan Ilyich - Lev Nikolayevich Tolstoy
+- Người biển-lận - Moliere
+- Một chuyến đi - Tử Yên Nguyễn Thu Thuỷ
 ### 2022
 - Mặt trời không bao giờ có thực - Phạm Công Thiện
 - Ecce Homo - Friedrich Nietzsche
@@ -21,29 +39,34 @@ author_profile: true
 - Tam quốc diễn nghĩa - La Hán Trung
 - Tâm lí học đám đông - Gustave Le Bon
 - Người xa lạ - Albert Camus
-### 2023
-- Ngũ luân thư - Miyamoto Musashi
-- Chủng Tộc Technion - Ammon Frekel, Shlomo Maital, Ilana DeBare
-- Tiện bút - Cao Việt Dũng
-- Thần thoại Sisyphus - Albert Camus
-- Phía Nam biên giới, phía Tây mặt trời - Haruki Murakami
-- Cái chết của Ivan Ilyich - Lev Nikolayevich Tolstoy
-- Người biển-lận - Moliere
-- Một chuyến đi - Tử Yên Nguyễn Thu Thuỷ
 ## 2. Đang đọc
+- Tôi tên là đỏ - Orhan Pamuk
+- Nếu đêm đông có người lữ khách - Italo Calvino
 - Những huyền thoại -  Roland Barthes
 - Những anh hùng của lịch sử - Will Durant
-- Lịch sử triết học phương Đông viết cho thanh thiếu niên - Kang Sun Ryul
-- Đông Chu liệt quốc - Phùng Mộng Long
 - The dictionary of obscure sorrows - John Koenig
-## 3. Dự định đọc
-- Clean code: A handbook of agile software craftsmanship - Robert Martin
-- Quyền lực - Bertrand Russell
 - Tôi tư duy, vậy thì tôi vẽ - Thomas Cathcart & Daniel Klein
-- Chùm nho thịnh nộ - John Steinbeck
-- Bên phía nhà Swann - Marcel Proust
-- Trò chơi của thiên thần - Carlos Ruiz Zafón
+- Sách cười và lãng quên - Milan Kundera
+- Nếu một đêm đông có người lữ khách - Italo Calvino
+- Bốn tình yêu - C. S. Lewis
+- Le spleen de Paris - Baudelaire
+- Giống như là chết - Maupassant
+- Hồi ký viết dưới hầm - Fyodor Mikhaylovich Dostoevsky
+- Tội ác và trừng phạt - Fyodor Mikhaylovich Dostoevsky
+- Người tỉnh nói chuyện mộng du - Mạc Ngôn
+- Đêm núm sen - Trần Dần
+- What we talk about when we talk about love - Raymond Carver
+- Chiếc lư đồng mắt cua - Nguyễn Tuân
+- Quán trọ hoa diên vỹ - Yoko Ogawa
+## 3. Dự định đọc
 ## 4. Có thể sẽ đọc
+- Lịch sử triết học phương Đông viết cho thanh thiếu niên - Kang Sun Ryul
+- Trò chơi của thiên thần - Carlos Ruiz Zafón
+- Chùm nho thịnh nộ - John Steinbeck
+- Quyền lực - Bertrand Russell
+- Bên phía nhà Swann - Marcel Proust
+- Clean code: A handbook of agile software craftsmanship - Robert Martin
+- Đông Chu liệt quốc - Phùng Mộng Long
 - When We Cease to Understand the World - Benjamín Labatut
 - Phải trái đúng sai - Michael Sandel
 - Sự nghèo nàn của thuyết sử luận (The poverty of historicism) - Karl Popper
@@ -80,7 +103,6 @@ author_profile: true
 - 21 bài học cho thế kỷ 21 - Yuval Noah Harari 
 - Buồn nôn - Jean Paul Sartre
 - Nghệ thuật tiểu thuyết - Milan Kundera
-- Đời nhẹ khôn kham - Milan Kundera
 - Thiên nga đen - Nassim Nicholas Taleb
 - Hành trình đi đến tận cùng đêm tối - Louis-Ferdinand Celine 
 - Người trong bóng tối - Paul Auster
