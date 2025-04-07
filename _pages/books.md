@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## 1. Đã đọc
+### 2025
+- Ông già và biển cả - Ernest Hemingway (drop)
+- Carmen - Prosper Mérimée
+- Cây cam ngọt của tôi - José Mauro de Vasconcelos
+- Chín truyện ngắn - J. D. Salinger
 ### 2024
 - Đẹp - Khái Hưng
 - Chuyện tình giai nhân - Trương Ái Linh
